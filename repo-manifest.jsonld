@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pysal/spreg/commit/4dbc809242d9fe8f5fca0257c7dc9c957fc1ce36",
       "git:hexsha": "4dbc809242d9fe8f5fca0257c7dc9c957fc1ce36",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pysal/spreg/commit/6898b3ca01546636a8c032bc1b83e817912984e6",
