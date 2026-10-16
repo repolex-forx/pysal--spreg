@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "spreg",
+  "versions": [
+    {
+      "commit": "4dbc809242d9fe8f5fca0257c7dc9c957fc1ce36",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:17:57.131940+00:00"
+    }
+  ]
+}
